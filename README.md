@@ -1,4 +1,4 @@
-![Banner](/images/logo.png)
+![Banner](/images/banner.png)
 
 ## 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Shobhit Kumar
 
