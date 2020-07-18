@@ -4,6 +4,8 @@
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
+**My responsibilities include going through hours of user experience testing recordingd that are conducted with user focus groups and then all compliling the feedback in actionable  UX changes.
+
 :computer: 𝑺𝒆𝒏𝒊𝒐𝒓 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊n New Delhi, 𝒂𝒕 Palo Alto Networks. 
 
 :vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰am jack of all master of none. 
@@ -28,7 +30,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>**ReactJS**</span><br><br><br>
+        <span>ReactJS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
@@ -64,7 +66,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>__Bootstrap__</span><br><br><br>
+        <span>Bootstrap</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
     </tr>
