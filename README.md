@@ -1,11 +1,6 @@
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+![Banner](/images/logo.png)
 
-# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Shobhit Kumar
+## 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Shobhit Kumar
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
