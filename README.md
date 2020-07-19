@@ -1,4 +1,4 @@
-![Banner](/images/banner.png)
+![Banner](https://raw.githubusercontent.com/shobhit-ui/shobhit-ui/master/images/banner.png)
 
 ## 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Shobhit Kumar
 
